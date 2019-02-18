@@ -8,7 +8,7 @@ A simple web app that allows a user to rent out their places. It will also allow
 ```
 As a signed up user
 So that I can rent my place
-I would like to lisy my space on Makersbnb
+I would like to list my space on Makersbnb
 ```
 ```
 As a signed up user
